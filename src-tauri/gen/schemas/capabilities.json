@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Default capabilities for the main window","local":true,"windows":["main"],"permissions":["core:default","dialog:default","dialog:allow-open","dialog:allow-save","fs:default","fs:allow-exists","fs:allow-mkdir",{"identifier":"fs:allow-read-file","allow":[{"path":"**"}]},{"identifier":"fs:allow-write-file","allow":[{"path":"**"}]}]}}
